@@ -169,6 +169,7 @@ Tools for providing visibility across the entire DevOps lifecycle.
 - [SBDI/mcp-devps-hub](https://github.com/SBDI/mcp-devps-hub) 🐍 🏠 - MCP server for end-to-end development visibility (Jira, GitHub, CI/CD, etc.).
 - [Acid-base/FastMCP-Proper](https://github.com/Acid-base/FastMCP-Proper) 🐍 🏠 - Python MCP server with CI/CD tooling and testability built-in.
 - [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) 🎖️ 📇 ☁️ - Integrates, discovers, manages, and codifies cloud resources with [Firefly](https://firefly.ai).
+- [yifanyifan897645/mcp-checkup](https://github.com/yifanyifan897645/mcp-checkup) 📇 🏠 - Analyze the token cost of your MCP setup. Measures per-tool and per-server context window consumption, finds duplicates, grades efficiency (A-F), and generates optimization reports. `npx mcp-checkup`
 
 ### 👨‍💻 Code Execution
 Code execution servers. Allow LLMs to execute code in a secure environment.
